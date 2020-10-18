@@ -1,6 +1,6 @@
 **JavaScript Developer. Professional**
 
-**Task #1**
+**Task #2**
 
 getPath - поиск уникального селектора
 
