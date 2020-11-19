@@ -1,0 +1,26 @@
+{
+  "name": "dz2",
+  "version": "1.0.0",
+  "description": "GetPath for selector",
+  "main": "task.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3adooR/js2.git"
+  },
+  "keywords": [
+    "get_path",
+    "js"
+  ],
+  "author": "3aDooR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3adooR/js2/issues"
+  },
+  "homepage": "https://github.com/3adooR/js2#readme"
+}
